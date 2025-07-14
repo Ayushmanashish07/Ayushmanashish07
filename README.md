@@ -1,7 +1,11 @@
 ## Hi, I'm Ayushman! 👋
 
 🎓 A recent graduate from *GITA Autonomous College, Bhubaneswar*, passionate about building robust and scalable web applications.  
-💻 I specialize in *Full Stack Development* using modern technologies from frontend to backend.
+💻 Motivated and detail-oriented Computer Science undergraduate with strong skills in back-end development, full-stack
+technologies, and software engineering. Proficient in Java, ReactJS, and database management. Looking to leverage
+my experience in developing responsive web applications and delivering scalable solutions in a dynamic tech-driven
+environment committed to continuous learning and growth, eager to contribute innovative ideas and technical
+expertise to future projects.
 
 ---
 
