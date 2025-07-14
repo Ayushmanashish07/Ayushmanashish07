@@ -1,6 +1,6 @@
 ## Hi, I'm Ayushman! 👋
 
-🎓 A recent graduate from *GITA Autonomous College, Bhubaneswar*, passionate about building robust and scalable web applications.  
+🎓 A recent graduate from *GITA Autonomous College, Bhubaneswar*  
 💻 Motivated and detail-oriented Computer Science undergraduate with strong skills in back-end development, full-stack
 technologies, and software engineering. Proficient in Java, ReactJS, and database management. Looking to leverage
 my experience in developing responsive web applications and delivering scalable solutions in a dynamic tech-driven
@@ -48,8 +48,8 @@ expertise to future projects.
 ---
 
 ### ✨ Fun Fact
-I’ll let you know *how great I am* once we start working together 😄
-Football Fan (Visça Barça💙❤️)
+- I’ll let you know *how great I am* once we start working together 😄
+- Football Fan (Visça Barça💙❤️)
 
 ---
 
