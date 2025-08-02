@@ -48,8 +48,7 @@ expertise to future projects.
 ---
 
 ### ✨ Fun Fact
-- I’ll let you know *how great I am* once we start working together 😄
-- Football Fan (Visça Barça💙❤️)
+- Football (Visça Barça💙❤️)
 
 ---
 
